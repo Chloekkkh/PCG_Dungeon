@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3830d6c259b62f4297840dd283afd3e, type: 3}
+  m_Name: tileInfo_1
+  m_EditorClassIdentifier: 
+  floorTile: {fileID: 11400000, guid: f37fd6ddebe5197449cb107aa12cc488, type: 2}
+  up: {fileID: 11400000, guid: 58975b400da689b4898d1e3c87f0a650, type: 2}
+  upRight: {fileID: 11400000, guid: 792db90eda564c942875ad72f8e1a98b, type: 2}
+  upLeft: {fileID: 11400000, guid: cd4b19d4bd0c3bb4ab3c47b002276c57, type: 2}
+  right: {fileID: 11400000, guid: b677456d151de594bba6360fd96ccbd1, type: 2}
+  left: {fileID: 11400000, guid: b7862e68f2a3f4649ae3ba79aaff8092, type: 2}
+  down: {fileID: 11400000, guid: b99e3852a14f9aa46864b96090ffa123, type: 2}
+  downRight: {fileID: 11400000, guid: ac69f0ee4b1e9784692653a4c11e9414, type: 2}
+  downLeft: {fileID: 11400000, guid: c37a0f9b7c2edc04684cc422262a303f, type: 2}
+  cornerUpRight: {fileID: 11400000, guid: 3cb95c28c0721a64f93e9e1cbe0cff3c, type: 2}
+  cornerUpLeft: {fileID: 11400000, guid: 3483b6f4cb48ccf4fa1811ae04770bdc, type: 2}
+  cornerDownRight: {fileID: 11400000, guid: 5d3bd6bc9a87e904aa69cc2657c39205, type: 2}
+  cornerDownLeft: {fileID: 11400000, guid: 60b31861425b22f45b8f4bc2d4d14df0, type: 2}
+  itemTileList:
+  - {fileID: 11400000, guid: 619dc71aaed40a347b47caded0bca982, type: 2}
+  - {fileID: 11400000, guid: 7f241cb2acda6684bbe85c9f1ced4ffc, type: 2}
+  - {fileID: 11400000, guid: 6128c37aacf97a04daeda9e784e6deaf, type: 2}
+  - {fileID: 11400000, guid: 983bfce874410d04487a8fb35bf75e65, type: 2}
+  count: 10
